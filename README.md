@@ -48,7 +48,7 @@ Use slicers/filters to interact with the dashboard.
 Explore workforce insights across states, cities, and demographics.
 
 📸 Dashboard Preview
-(Insert screenshot of your dashboard here)
+https://github.com/kontaktkaran/Human_Resouces_Dashboard/blob/main/hrdashboardpic.png
 
 📌 Insights
 This dashboard enables HR managers to:
