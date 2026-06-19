@@ -1,4 +1,4 @@
-# Human_Resouces_Dashboard
+# HR Workforce Analytics Dashboard | Excel
 📊 HR Management Dashboard (Excel)
 Overview
 This project is a Human Resources Analytics Dashboard built in Microsoft Excel. It transforms raw employee data into actionable insights using PivotTables, charts, and KPIs.
