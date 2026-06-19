@@ -6,17 +6,10 @@ This project is a Human Resources Analytics Dashboard built in Microsoft Excel. 
 The dashboard helps HR teams track workforce trends, hiring patterns, and employee performance at a glance.
 
 🔑 Features
-PivotTables for dynamic summarization of employee data
-
-Interactive charts (bar, line, scatter, map) for visual insights
-
-Slicers & filters to explore data by gender, hire year, status, and location
-
-KPIs for Active, Hired, and Terminated employees
-
-Map chart to visualize workforce distribution across states and cities
-
-Clean, professional Excel dashboard design
+Designed an end-to-end HR Analytics Dashboard in Excel, analyzing 8,950 employee records across 7 departments using pivot tables, slicers, and conditional formatting to surface workforce KPIs.
+Built dynamic pivot tables to track a 10.79% attrition rate, segmenting terminations by department (Finance highest at 13.9%), gender, and tenure to identify high-risk employee cohorts.
+Performed salary benchmarking analysis using MAX, MIN function, and grouped pivot reports, revealing a $17,781 pay gap between the highest (IT: $81,926) and lowest (HR: $64,145) compensated departments.
+Engineered calculated fields and KPI cards to monitor performance distribution (42% Good, 17% Excellent) and education-linked salary trends, enabling data-driven HR decision-making.
 
 🛠️ Skills Demonstrated
 Excel (PivotTables, Power Pivot, Conditional Formatting, Charts)
@@ -38,18 +31,10 @@ Charts → Visual representation of KPIs and trends
 
 Dashboard → Final interactive view for decision‑making
 
-🚀 How to Use
-Download the Excel file from this repository.
-
-Open in Microsoft Excel (2016 or later recommended).
-
-Use slicers/filters to interact with the dashboard.
-
-Explore workforce insights across states, cities, and demographics.
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](hrdashboardpic.png)
+![HR Dashboard](HR_Dashboard.png)
 
 📌 Insights
 This dashboard enables HR managers to:
@@ -61,3 +46,9 @@ Track workforce distribution by geography
 Analyze employee demographics
 
 Support data‑driven HR decisions
+
+### KPI findings 
+Attrition is worst in Finance (13.9%) 
+IT pays the most ($81,926 avg), HR the least ($64,145)
+PHD has the highest excellence rating (47.7% Excellent performers)
+PhD holders earn 38% more than high school graduates. 
