@@ -7,8 +7,11 @@ The dashboard helps HR teams track workforce trends, hiring patterns, and employ
 
 🔑 Features
 Designed an end-to-end HR Analytics Dashboard in Excel, analyzing 8,950 employee records across 7 departments using pivot tables, slicers, and conditional formatting to surface workforce KPIs.
+
 Built dynamic pivot tables to track a 10.79% attrition rate, segmenting terminations by department (Finance highest at 13.9%), gender, and tenure to identify high-risk employee cohorts.
+
 Performed salary benchmarking analysis using MAX, MIN function, and grouped pivot reports, revealing a $17,781 pay gap between the highest (IT: $81,926) and lowest (HR: $64,145) compensated departments.
+
 Engineered calculated fields and KPI cards to monitor performance distribution (42% Good, 17% Excellent) and education-linked salary trends, enabling data-driven HR decision-making.
 
 🛠️ Skills Demonstrated
